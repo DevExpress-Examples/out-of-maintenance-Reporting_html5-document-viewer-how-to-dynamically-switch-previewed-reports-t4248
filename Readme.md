@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [CustomWebDocumentViewerReportResolver.cs](./CS/T424872/CustomWebDocumentViewerReportResolver.cs) (VB: [CustomWebDocumentViewerReportResolver.vb](./VB/T424872/CustomWebDocumentViewerReportResolver.vb))
-* **[Default.aspx](./CS/T424872/Default.aspx) (VB: [Default.aspx.vb](./VB/T424872/Default.aspx.vb))**
+* **[Default.aspx](./CS/T424872/Default.aspx) (VB: [Default.aspx](./VB/T424872/Default.aspx))**
 * [Default.aspx.cs](./CS/T424872/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/T424872/Default.aspx.vb))
 * [Global.asax.cs](./CS/T424872/Global.asax.cs) (VB: [Global.asax.vb](./VB/T424872/Global.asax.vb))
 <!-- default file list end -->
